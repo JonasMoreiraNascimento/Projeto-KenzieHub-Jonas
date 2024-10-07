@@ -16,5 +16,4 @@ Armazenamento de Dados: As informações de usuário e as tecnologias são armaz
 
 Edição e Exclusão de Tecnologias: Os usuários podem editar ou excluir as tecnologias que adicionaram à lista.
 
-Projeto público com permissão da Kenzie Academy Brasil
-# Projeto-KenzieHub-Jonas
+Link da página: https://entrega-react-kenzie-hub-jonas.vercel.app/
